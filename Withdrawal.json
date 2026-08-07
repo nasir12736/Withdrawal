@@ -1,0 +1,16 @@
+{
+  "blocked": [
+    "uid_111111",
+    "uid_222222"
+  ],
+  "users": {
+    "uid_123456": {
+      "name": "Ali",
+      "password": "12345"
+    },
+    "uid_654321": {
+      "name": "Ahmed",
+      "password": "vip2026"
+    }
+  }
+}
